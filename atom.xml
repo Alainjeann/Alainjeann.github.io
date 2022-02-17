@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Thing And Event</title>
+  
+  <subtitle>爱与神圣</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-02-17T13:10:23.971Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Jean Alain</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nothing Will Flow</title>
+    <link href="http://example.com/posts/9776190d/"/>
+    <id>http://example.com/posts/9776190d/</id>
+    <published>2022-02-17T10:48:15.000Z</published>
+    <updated>2022-02-17T13:10:23.971Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;很多人急于把“铁链囚禁女性，虐待，强迫生育多个孩子”的事情当成是一个事件，这种做法一方面是因为无知，另一方面是因为败坏。当公众承认它可以被合理地定义为一个事件时，就等于连带着承认了它是偶然的、无法预料的，自然也是不需要有人承担最后的责任的：这只不过是偶然发生在一个落后、贫穷的乡镇的偶然事件。这种定义是邪恶的，因为它根本不是一个事件，而是一场有预谋的、有组织的、集体性质的反人类罪行。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="这不是一个事件" scheme="http://example.com/categories/%E8%BF%99%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%8B%E4%BB%B6/"/>
+    
+    
+    <category term="丰县被铁链囚禁的女性" scheme="http://example.com/tags/%E4%B8%B0%E5%8E%BF%E8%A2%AB%E9%93%81%E9%93%BE%E5%9B%9A%E7%A6%81%E7%9A%84%E5%A5%B3%E6%80%A7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我所是的动物</title>
+    <link href="http://example.com/posts/13224/"/>
+    <id>http://example.com/posts/13224/</id>
+    <published>2022-02-13T16:12:37.000Z</published>
+    <updated>2022-02-13T16:18:24.579Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜德里达&lt;/center&gt;
+&lt;center&gt;译者｜黎一萱&lt;/center&gt;
+
+&lt;p&gt;来自他者的这种晦暗不明的目光给了我什么？它对“说”了什么？为什么列维纳斯说：与他者相遇的最好的方式就是不在意他眼睛的颜色？动物有关于我的看法。一个绝对的他者的看法，没有什么能够给我带来如此之多的关于这种绝对的他异性的思考，直到发现自已赤身裸体处在猫的注视之下，才让我强烈地感受到了这个邻居的存在。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="后现代" scheme="http://example.com/categories/%E5%90%8E%E7%8E%B0%E4%BB%A3/"/>
+    
+    <category term="德里达" scheme="http://example.com/categories/%E5%90%8E%E7%8E%B0%E4%BB%A3/%E5%BE%B7%E9%87%8C%E8%BE%BE/"/>
+    
+    
+    <category term="翻译" scheme="http://example.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="动物" scheme="http://example.com/tags/%E5%8A%A8%E7%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论思想现如今的处境</title>
+    <link href="http://example.com/posts/46712/"/>
+    <id>http://example.com/posts/46712/</id>
+    <published>2022-02-11T09:05:17.000Z</published>
+    <updated>2022-02-11T11:00:32.101Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜马尔库塞&lt;/center&gt;
+&lt;center&gt;译者｜黄晓伟、高海青&lt;/center&gt;
+
+&lt;p&gt;“在奥斯维辛之后，写诗是野蛮的”，这一论断已经不合时宜了。“野蛮”已不足以把握当前正在发生的事情。如果作为重大事件的、不向犬儒主义和垮掉的一代屈服的诗歌也被现有的文化吸收并推向了市场，如果拒不妥协的否定性——假如我们以前对此有所耳闻——变成了肯定，并且还被用来证明现有文化依然存在着“言论与思想自由”，那么不一致的精神向度与物质向度就会变成现有世界的一个向度。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="马尔库塞" scheme="http://example.com/categories/%E9%A9%AC%E5%B0%94%E5%BA%93%E5%A1%9E/"/>
+    
+    
+    <category term="摘录" scheme="http://example.com/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论科学和现象学</title>
+    <link href="http://example.com/posts/28343/"/>
+    <id>http://example.com/posts/28343/</id>
+    <published>2022-02-11T08:55:38.000Z</published>
+    <updated>2022-02-11T11:01:45.282Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜马尔库塞&lt;/center&gt;
+&lt;center&gt;译者｜黄晓伟、高海青&lt;/center&gt;
+《欧洲科学的危机和超验现象学》是胡塞尔最后一部著作。它写于20世纪30年代，其中第一部分发表于1936年，第二部分在他去世后才得以出版。我想指出我是从哪个地方开始来理解这部作品的历史轨迹的。在我看来，我们必须将其放在对西方理性概念重新进行彻底审视的背景下。这种审视开始于19世纪的最后几十年，当时很多本质上完全不同的思想家都参与了进来，比如，柏格森、狄尔泰、韦伯、斯宾格勒、皮亚杰和巴什拉等。</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="马尔库塞" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E9%A9%AC%E5%B0%94%E5%BA%93%E5%A1%9E/"/>
+    
+    
+    <category term="摘录" scheme="http://example.com/tags/%E6%91%98%E5%BD%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>去哪里寻找元宇宙？</title>
+    <link href="http://example.com/posts/61229/"/>
+    <id>http://example.com/posts/61229/</id>
+    <published>2022-02-10T22:15:03.000Z</published>
+    <updated>2022-02-10T22:29:45.604Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
+    
+    
+    
+    <category term="事件" scheme="http://example.com/categories/%E4%BA%8B%E4%BB%B6/"/>
+    
+    <category term="元宇宙" scheme="http://example.com/categories/%E4%BA%8B%E4%BB%B6/%E5%85%83%E5%AE%87%E5%AE%99/"/>
+    
+    
+    <category term="随笔" scheme="http://example.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为什么连一座像样的教堂都没有的主，会被相信？</title>
+    <link href="http://example.com/posts/44084/"/>
+    <id>http://example.com/posts/44084/</id>
+    <published>2022-02-10T21:20:18.000Z</published>
+    <updated>2022-02-10T22:13:51.032Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;经过多日努力，丰县调查组为杨某侠成功制造了一个故乡。一个云南的小村子，一个傈僳族的身份，以及一些死无对证的血缘关系。抛开这件事不谈，傈僳族所在的地方确实值得深思。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="傈僳族" scheme="http://example.com/categories/%E5%82%88%E5%83%B3%E6%97%8F/"/>
+    
+    <category term="基督教" scheme="http://example.com/categories/%E5%82%88%E5%83%B3%E6%97%8F/%E5%9F%BA%E7%9D%A3%E6%95%99/"/>
+    
+    
+    <category term="调研" scheme="http://example.com/tags/%E8%B0%83%E7%A0%94/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是艺术作品？</title>
+    <link href="http://example.com/posts/30558/"/>
+    <id>http://example.com/posts/30558/</id>
+    <published>2022-02-09T17:21:05.000Z</published>
+    <updated>2022-02-11T11:00:49.371Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜查尔斯·吉尼翁&lt;/center&gt;
+&lt;center&gt;译者｜李旭，张东锋&lt;/center&gt;
+
+
+&lt;p&gt;海德格尔指出世界和大地对一件艺术作品的运作而言都是必要的。神庙必须净化且整合诸多实践——它必须是“统领一切的”（all-governing）但是作为一个具体的物事它抵制理性化。这种抵制彰显在艺术作品真正的物性中。这种物性不是偶然的。神庙要求由石头做成以表明人在自然世界中的位置，因此一个由钢铁做成的庙不会起作用。同样，一出悲剧要求诗的音调以创造一种共享的情绪并因而敞开一个共享的世界。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="海德格尔" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/"/>
+    
+    <category term="艺术" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E8%89%BA%E6%9C%AF/"/>
+    
+    
+    <category term="摘录" scheme="http://example.com/tags/%E6%91%98%E5%BD%95/"/>
+    
+    <category term="剑桥研究指南" scheme="http://example.com/tags/%E5%89%91%E6%A1%A5%E7%A0%94%E7%A9%B6%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>什么是四合？</title>
+    <link href="http://example.com/posts/19868/"/>
+    <id>http://example.com/posts/19868/</id>
+    <published>2022-02-08T19:31:51.000Z</published>
+    <updated>2022-02-17T13:08:56.605Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜朱利安·杨&lt;/center&gt;
+&lt;center&gt;译者｜李旭，张东锋&lt;/center&gt;
+
+&lt;p&gt;在围绕着“四合”的很多神秘中，海德格尔研究者里面解释它究竟是什么的努力几乎还整个地付诸缺如。这一主题甚至通常都没有被放进索引，即便偶尔讨论到了它，也只是这一类的陈述——这一概念［四合］是以一种人们只能把它叫作神秘的方式提出来的，因此它的哲学意义非常不清楚” ，这种说明没有多少真正的帮助。被海德格尔诗意简约的表述方式所困，注释者们也将之委诸沉默的黑箱里了。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="海德格尔" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/"/>
+    
+    <category term="四合" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%B5%B7%E5%BE%B7%E6%A0%BC%E5%B0%94/%E5%9B%9B%E5%90%88/"/>
+    
+    
+    <category term="摘录" scheme="http://example.com/tags/%E6%91%98%E5%BD%95/"/>
+    
+    <category term="剑桥研究指南" scheme="http://example.com/tags/%E5%89%91%E6%A1%A5%E7%A0%94%E7%A9%B6%E6%8C%87%E5%8D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Maurice Merleau-Ponty（1908-1961）</title>
+    <link href="http://example.com/posts/6678/"/>
+    <id>http://example.com/posts/6678/</id>
+    <published>2022-02-08T18:47:55.000Z</published>
+    <updated>2022-02-10T14:30:06.252Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;梅洛庞蒂的生平&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="梅洛庞蒂" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%A2%85%E6%B4%9B%E5%BA%9E%E8%92%82/"/>
+    
+    
+    <category term="资料" scheme="http://example.com/tags/%E8%B5%84%E6%96%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>一个陌生女人的死亡</title>
+    <link href="http://example.com/posts/16919/"/>
+    <id>http://example.com/posts/16919/</id>
+    <published>2022-02-08T18:18:40.000Z</published>
+    <updated>2022-02-11T08:53:24.754Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;像所有发生过的事情一样，没有多少人了解，陌生女人是怎么来到这个荒僻的小山村的。那年7月末，住在河边山坡上的老人照例起早去地里忙活，门口的坡特别陡，老人不得不用锄头抵着，缓步下坡。坡底就是村子里最小的河，其实并不能把它算作是一条河，小河的最宽处不超过一米，大多数时候长满杂草。水不是常有的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="事件" scheme="http://example.com/categories/%E4%BA%8B%E4%BB%B6/"/>
+    
+    <category term="丰县" scheme="http://example.com/categories/%E4%BA%8B%E4%BB%B6/%E4%B8%B0%E5%8E%BF/"/>
+    
+    
+    <category term="真实故事改编" scheme="http://example.com/tags/%E7%9C%9F%E5%AE%9E%E6%95%85%E4%BA%8B%E6%94%B9%E7%BC%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为何画一个临刑犯人的脸？——《白痴》书评</title>
+    <link href="http://example.com/posts/25509/"/>
+    <id>http://example.com/posts/25509/</id>
+    <published>2022-02-08T18:10:24.000Z</published>
+    <updated>2022-02-09T17:02:41.621Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;“画脸？”&lt;br&gt;“单画一张脸？”&lt;br&gt;“这题材相当奇怪，那将成为一幅什么样的画呢？”&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="文学" scheme="http://example.com/categories/%E6%96%87%E5%AD%A6/"/>
+    
+    <category term="陀思妥耶夫斯基" scheme="http://example.com/categories/%E6%96%87%E5%AD%A6/%E9%99%80%E6%80%9D%E5%A6%A5%E8%80%B6%E5%A4%AB%E6%96%AF%E5%9F%BA/"/>
+    
+    
+    <category term="书评" scheme="http://example.com/tags/%E4%B9%A6%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>撞击、晕光症与他者——《总体与无限》书评</title>
+    <link href="http://example.com/posts/45436/"/>
+    <id>http://example.com/posts/45436/</id>
+    <published>2022-02-08T15:41:45.000Z</published>
+    <updated>2022-02-10T11:48:09.945Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;“‘真正的生活是不在场的’。但我们却在世界之中”&lt;/p&gt;
+&lt;p&gt;这句饶有深意的话语开启了一场冒险——但这不是一场奥德修斯式的冒险，而是一场亚伯拉罕式的冒险——什么是“真正的生活”？缘何要把“我们在世界之中”这样一个“显而易见的事实”接在后面，仿佛它在对立面又意味着某种极为重要的立场似的？在后面我们还会看到更多：存在、回忆、古各斯、潜能-现实、恶魔、无限观念、国家、辩证法、光、手……事实上，这本著作中回荡着的是整个哲学的历史——我们的这位伟大的作者不是在试图与历史上的哲学对话（而且可以说根本不意在于此），而是力图冲击和质疑那铭刻在自希腊就发端的、被我们称之为“哲学”之物里面的东西：总体（性）。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="莱维纳斯" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E8%8E%B1%E7%BB%B4%E7%BA%B3%E6%96%AF/"/>
+    
+    
+    <category term="书评" scheme="http://example.com/tags/%E4%B9%A6%E8%AF%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>致读者</title>
+    <link href="http://example.com/posts/2772/"/>
+    <id>http://example.com/posts/2772/</id>
+    <published>2022-02-07T23:16:34.590Z</published>
+    <updated>2022-02-10T14:30:44.797Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;读者朋友们，大家好，很开心能和大家再见面。&lt;/p&gt;
+&lt;p&gt;这是我昨晚创建的基于Github的Hexo博客&lt;/p&gt;
+&lt;p&gt;将用于发布哲学、文学、艺术和社会事件等话题的文章&lt;/p&gt;
+&lt;p&gt;这是一个属于大家的地方&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+</feed>
