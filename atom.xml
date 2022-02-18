@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-17T13:10:23.971Z</updated>
+  <updated>2022-02-18T17:51:17.053Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>知觉的首要地位及其哲学结论</title>
+    <link href="http://example.com/posts/2389d787/"/>
+    <id>http://example.com/posts/2389d787/</id>
+    <published>2022-02-18T17:43:07.000Z</published>
+    <updated>2022-02-18T17:51:17.053Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;译者｜黎一萱&lt;/center&gt;
+&lt;center&gt;作者｜梅洛庞蒂&lt;/center&gt;
+
+
+&lt;p&gt;这些论述的出发点是：被知觉世界包含各种关系，并且在一般情况下，包含着一种没有被经典心理学和哲学承认的组织的类型。&lt;strong&gt;被知觉的世界是所有理性、所有价值及所有实存总要预先设定的基础。这样的构想并非是对理性与绝对的破坏，它只是试图将它们降临大地。&lt;/strong&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="现象学" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/"/>
+    
+    <category term="梅洛-庞蒂" scheme="http://example.com/categories/%E7%8E%B0%E8%B1%A1%E5%AD%A6/%E6%A2%85%E6%B4%9B-%E5%BA%9E%E8%92%82/"/>
+    
+    
+    <category term="翻译" scheme="http://example.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+  </entry>
   
   <entry>
     <title>Nothing Will Flow</title>
