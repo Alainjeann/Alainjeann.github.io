@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-20T17:21:53.238Z</updated>
+  <updated>2022-02-20T17:22:21.170Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/c1c79c0d/"/>
     <id>http://example.com/posts/c1c79c0d/</id>
     <published>2022-02-20T16:57:02.000Z</published>
-    <updated>2022-02-20T17:21:53.238Z</updated>
+    <updated>2022-02-20T17:22:21.170Z</updated>
     
     
     <summary type="html">&lt;center&gt;作者｜阿甘本&lt;/center&gt;
@@ -42,15 +42,27 @@
   </entry>
   
   <entry>
-    <title>“回到张生”</title>
+    <title>一种新的哲学形态：中文系哲学</title>
     <link href="http://example.com/posts/759fac5/"/>
     <id>http://example.com/posts/759fac5/</id>
     <published>2022-02-19T08:47:22.000Z</published>
-    <updated>2022-02-19T08:47:22.351Z</updated>
+    <updated>2022-02-20T22:39:58.744Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html"></summary>
+        
+      
     
     
     
+    <category term="中文系哲学" scheme="http://example.com/categories/%E4%B8%AD%E6%96%87%E7%B3%BB%E5%93%B2%E5%AD%A6/"/>
     
+    
+    <category term="好玩的" scheme="http://example.com/tags/%E5%A5%BD%E7%8E%A9%E7%9A%84/"/>
     
   </entry>
   
