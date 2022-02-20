@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-02-18T17:51:17.053Z</updated>
+  <updated>2022-02-20T17:21:53.238Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,44 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>敞开：人与动物</title>
+    <link href="http://example.com/posts/c1c79c0d/"/>
+    <id>http://example.com/posts/c1c79c0d/</id>
+    <published>2022-02-20T16:57:02.000Z</published>
+    <updated>2022-02-20T17:21:53.238Z</updated>
+    
+    
+    <summary type="html">&lt;center&gt;作者｜阿甘本&lt;/center&gt;
+&lt;center&gt;译者｜黎一萱&lt;/center&gt;
+
+
+&lt;p&gt;译者引言：《敞开：人与动物》要回答的问题是：既然人类的有些恶是无论如何也不应当谅解的，那么应当如何避免这种恶的再一次发生？阿甘本的思路是，避免这种恶需要人的人性的自我完善，但是这种完善不能建立在目前所理解的人性的基础上，而是要建立在一种新的关于人的定义之上。传统上对人的定义遵循着同样的模式，即将人从动物中提升出来，提升的方式有把人定义为劳动动物、城邦动物、理性动物、符号动物使用工具的动物……因此，人是通过摆脱自身的动物性而成为人的。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="阿甘本" scheme="http://example.com/categories/%E9%98%BF%E7%94%98%E6%9C%AC/"/>
+    
+    
+    <category term="翻译" scheme="http://example.com/tags/%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="动物" scheme="http://example.com/tags/%E5%8A%A8%E7%89%A9/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>“回到张生”</title>
+    <link href="http://example.com/posts/759fac5/"/>
+    <id>http://example.com/posts/759fac5/</id>
+    <published>2022-02-19T08:47:22.000Z</published>
+    <updated>2022-02-19T08:47:22.351Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>知觉的首要地位及其哲学结论</title>
